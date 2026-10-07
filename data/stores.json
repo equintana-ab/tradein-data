@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:15:57.795Z",
+  "generatedAt": "2026-10-07T09:09:45.671Z",
   "stores": [
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "id": 3,
       "name": "Abenson TriNoma",
       "addr": "3rd Floor TriNoma Mall, North Avenue, Quezon City",
-      "hours": "10AM to 9PM",
+      "hours": "Mon-Thu 10AM to 9PM, Fri-Sun 9AM - 9PM",
       "phones": [],
       "viber": "https://tinyurl.com/AbensonTacloban",
       "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.0839877452977!2d121.0326900830128!3d14.652747931312822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b7028f4df26b%3A0x17ed7b8765cfa69c!2sAbenson!5e0!3m2!1sen!2sph!4v1791252846857!5m2!1sen!2sph",
