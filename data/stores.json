@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-10-07T01:15:57.795Z",
+  "stores": [
+    {
+      "id": 1,
+      "name": "Abenson Waltermart North Edsa",
+      "addr": "2nd Floor Waltermart North EDSA, Veterans Village, Quezon City",
+      "hours": "9AM to 9PM",
+      "phones": [
+        "(02) 8332 1045",
+        "0918 804 1478",
+        "0917 571 6609"
+      ],
+      "viber": "viber://pa?chatURI=waltermartnorthedsa",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3859.9810482805988!2d121.01841307541987!3d14.657016985836071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b6efe428d1ff%3A0xa4887123dd5d2d2f!2sAbenson%20Waltermart%20North%20EDSA!5e0!3m2!1sen!2sph!4v1791252769535!5m2!1sen!2sph",
+      "mapsQuery": "14.657224579666709,121.02104164019491"
+    },
+    {
+      "id": 2,
+      "name": "Abenson Quezon Avenue",
+      "addr": "Quezon Avenue, corner Scout Albano Ave, Quezon City, 1103 Metro Manila",
+      "hours": "11AM to 8PM",
+      "phones": [
+        "(02) 8441 2200",
+        "0917 555 0199"
+      ],
+      "viber": "639175550199",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.2652030054733!2d121.03035807541967!3d14.640881485850294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b7a75de1f1eb%3A0xfcb24bf0fff06471!2sAbenson%20Quezon%20Avenue!5e0!3m2!1sen!2sph!4v1791252806813!5m2!1sen!2sph",
+      "mapsQuery": "14.641026812249946,121.03293299601565"
+    },
+    {
+      "id": 3,
+      "name": "Abenson TriNoma",
+      "addr": "3rd Floor TriNoma Mall, North Avenue, Quezon City",
+      "hours": "10AM to 9PM",
+      "phones": [],
+      "viber": "https://tinyurl.com/AbensonTacloban",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.0839877452977!2d121.0326900830128!3d14.652747931312822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b7028f4df26b%3A0x17ed7b8765cfa69c!2sAbenson!5e0!3m2!1sen!2sph!4v1791252846857!5m2!1sen!2sph",
+      "mapsQuery": "14.652450441216592,121.03373242368869"
+    }
+  ]
+}
