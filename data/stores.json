@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T07:16:32.902Z",
+  "generatedAt": "2026-10-15T07:33:11.002Z",
   "stores": [
     {
       "id": 1,
@@ -274,7 +274,7 @@
     },
     {
       "id": 22,
-      "name": "ELECTROWORLD_SM SAN LAZARO",
+      "name": "ELECTROWORLD SM SAN LAZARO",
       "addr": "2nd Floor SM San Lazaro Mall, Feliz Huertas St., cor Tayuman, Manila",
       "hours": "",
       "phones": [
@@ -298,7 +298,7 @@
     },
     {
       "id": 24,
-      "name": "ABENSON_WALTERMART DASMARINAS",
+      "name": "ABENSON WALTERMART DASMARINAS",
       "addr": "Ground Floor, Waltermart Dasmariñas, Km 30 Aguinaldo Highway, Burol Main, Dasmarinas, Cavite",
       "hours": "",
       "phones": [
@@ -310,7 +310,7 @@
     },
     {
       "id": 25,
-      "name": "ELECTROWORLD_AYALA CENTER CEBU",
+      "name": "ELECTROWORLD AYALA CENTER CEBU",
       "addr": "3rd Floor, Ayala Center Cebu, Cebu Business Park, Cebu",
       "hours": "",
       "phones": [
